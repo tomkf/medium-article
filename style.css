@@ -1,0 +1,71 @@
+.banner {
+background-image: url("https://www.motherjones.com/wp-content/uploads/2019/01/shutdown-animals-1-21-18.jpg?w=990");
+margin: auto;
+height: 400px;
+}
+
+
+
+.banner h1 {
+padding-top: 150px;
+padding-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: auto;
+        text-align: center;
+}
+
+.banner h2 {
+    margin: auto;
+        text-align: center;
+        font-style: italic;
+    font-weight: lighter;
+    opacity: 0.8;
+}
+
+
+
+.userArticle {
+            width: 700px;
+    margin: 50px auto;
+}
+
+
+
+.contentSection {
+  padding-top: 30px;
+}
+
+.contentSection h1 {
+      color: #A0A0A0;
+  padding-left: 25px;
+    font-weight: normal;
+        font-family: 'Montserrat', sans-serif;
+        display: block;
+    font-size: 2.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-bottom: 5px;
+}
+
+
+
+.contentSection p {
+    font-size: 25px;
+    line-height: 1.6;
+    font-weight: lighter;
+    font-family: 'Lora', serif;
+
+        display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+
+
+
